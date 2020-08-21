@@ -1,2 +1,2 @@
 # CS-Solu-es
-Projeto em HTML portfólio pessoal
+Projeto em CSS do meu portfólio pessoal
